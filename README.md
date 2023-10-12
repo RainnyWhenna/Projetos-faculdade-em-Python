@@ -4,7 +4,7 @@ Disciplina: práticas de programação em sistemas de informação
 #### Prints da execução dos exercícios
 
 - ex001
-- ![ex001](https://github.com/RainnyWhenna/Projetos-faculdade-em-Python/assets/43002983/94e33530-3604-45cd-bb8a-6c1a3696d54e)
+![ex001](https://github.com/RainnyWhenna/Projetos-faculdade-em-Python/assets/43002983/94e33530-3604-45cd-bb8a-6c1a3696d54e)
 
 - ex002
 ![ex002](https://github.com/RainnyWhenna/Projetos-faculdade-em-Python/assets/43002983/c9fc275e-8fcd-40ac-b568-89ead443044f)
